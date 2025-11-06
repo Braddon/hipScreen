@@ -4,9 +4,9 @@
 
 ## Why?
 
-Screen is powerful but clunky, and remembering session names does not make me fun at parties.  And that's why i made `hip-screen`.   You too can change your life with this one command line tool.  
+Screen is powerful but clunky, and remembering session names does not make me fun at parties.  And that's why i made `hipScreen`.   You too can change your life with this one command line tool.  
 
-Thankfully `hip-screen` makes it dead simple:
+Thankfully `hipScreen` makes it dead simple:
 
 - **Named sessions you'll actually remember** - "Big Jim's little bug" beats "23847.pts-2.hostname"
 - **See everything at a glance** - what's running, when you last touched it, when you created it
