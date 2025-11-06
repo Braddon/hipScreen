@@ -1,4 +1,4 @@
-# hip-screen (hs)
+# hipScreen (hs)
 
 **GNU screen for cool kids with bad memories**
 
